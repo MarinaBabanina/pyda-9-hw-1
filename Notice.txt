@@ -1,0 +1,28 @@
+echo "# pyda-9-hw-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MarinaBabanina/pyda-9-hw-1.git
+git push -u origin master
+
+$ git config --global user.email "babaninami@icloud.com" # делаем настройку один раз в памках нашей текущей учетной записи
+$ git config --global user.name "MarinaBabanina"
+
+1) ”становите себе пакет Anaconda, ссылка: https://www.anaconda.com/distribution/, руководство: https://docs.anaconda.com/anaconda/ и попробуйте запустить Jupyter Notebook, руководство по запуску есть на официальном сайте: https://jupyter.readthedocs.io/en/latest/running.html#running
+
+ѕосле запуска должно открытьс€ окно с браузером и вы увидите примерно такую картину: https://cdn.accelebrate.com/images/library/tutorials/machine-learning-part1/create_jupyter.png. «начит все ок, этого достаточно, все остальное мы будем изучать на курсе.
+
+2) «арегистрируйтесь на github.com и установите систему контрол€ версий Git. –уководство по Git у вас есть в гостевых зан€ти€х, а также во вложении к этой вкладке
+
+¬ы можете работать, как через консоль, так и  в любых графических оболочках (этот вариант больше подойдет дл€ новичков).
+
+¬о вложении есть 2 инструкции по git, можно выбрать наиболее удобную дл€ вас, также есть сборник полезных ссылок, которыми вы сможете использовать на прот€жении всего курса.
+
+»нструкци€ по Git 1 вариант https://drive.google.com/file/d/1D0lc-DpVLsKH2izfy1bZZVk1Q_Jwue1j/view?usp=sharing
+
+»нструкци€ по Git 2 вариант  https://drive.google.com/file/d/1USD0J4z8w_YtCgzt50MRwzQEXVqANIG5/view?usp=sharing
+
+
+ ак пользоватьс€ Slack: советы и полезные настройки
+https://netology.ru/blog/07-2019-kak-polzovatsya-slack
+
